@@ -58,7 +58,7 @@ tuplas = [
 
 barsShows = {}
 
-# Inicia as listas de cada barra
+# Inicia as listas de barras de cada show
 for i in range(len(tuplas)):
     barsShows[i] = []
 
